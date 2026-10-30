@@ -1,0 +1,20 @@
+APK-Builder:
+
+英文在下面(English is below)
+
+关于软件：采用"轻量化"方案，仅占用23MB，适合装进你的设备，最佳支持安卓8.1系统，最低支持4.4，如果谷歌弹出"该应用版本过低"的选项，你就别管，就是兼容老设备的，采用smali 2.5.2，Android 12 jar包，让编译更简单，后续加入教程文案，让从零开始的人学会自己制作的第一个软件，因为现在只适配1.1版本为英文，需要自行等三个月，在适配英文的同时会加入更多的功能，同时在1.1版本引入更新日志，让这些没用过软件的人知道它更新了什么内容
+
+使用方法：点击"新建工程"，输入包名和应用名注意：包名只能是字母和数字，不能填任何特殊符号，报错了不要找我头上，是你自己没有输入正确的格式，应用名可以随便，生成完成之后，可以修改smali和AndroidManifest.xml，如果生成完成，日志输出的路径为"/storage/emulated/0/AppBuilderProjects/你的工程/build"可直接点击安装，也没有安装失败的问题(除非你把签名改了)，安装完成之后，如果看见出现你自己的界面就成功了，非常适合没有电脑的人
+
+功能及制作灵感：编译文件后，如果有❌，那就说明出现问题，请仔细阅读日志上的错误，并修改，直到一个✔️，然后就可以安装了，我制作这个工具的目的是：在一个夜黑风高的白天，我的电脑突然原地爆炸，炸出了一个半径十毫米的蘑菇云，差一点把我炸死，为了以防这种情况发生，我制作了一个手机版APK工具，技能防止电脑的爆炸，也能在手机上编译文件，这事我找邻居家的电脑制作的杰作。
+
+APK-Builder：
+
+About APP:
+This app adopts an extremely lightweight design, occupying only 23MB. It is perfectly suitable for your device. Best supports Android 8.1, minimum supports Android 4.4. If Google pops up a "built for an older version of Android" warning, just ignore it, it is designed to be compatible with older devices. It uses Smali 2.5.2 and Android 12 jar packages to make compilation simpler. Tutorials will be added later to teach beginners how to create their first app from scratch. Because currently only version 1.1 is adapted for English, you need to wait three months for English adaptation. While adapting English, more features will be added, and a Changelog will be introduced in version 1.1 so people who haven't used the software will know what has been updated.
+
+Usage:
+Click "New Project", enter the package name and app name. Note: The package name can only contain letters and numbers, no special symbols are allowed. If an error occurs, don't blame me, it's because you didn't enter the correct format. The app name can be anything. After generation is complete, you can modify the smali and AndroidManifest.xml. If generation is complete, the log output path is "/storage/emulated/0/AppBuilderProjects/your_project/build". You can click to install directly, and there will be no installation failure (unless you change the signature). After installation, if you see your own interface, it is successful. Very suitable for people without a computer.
+
+Features and Inspiration:
+After compiling the files, if there is a ❌, it means there is a problem. Please read the errors in the log carefully and modify them until there is a ✔️, then you can install it. The purpose of me making this tool is: on a dark and windy day, my computer suddenly exploded on the spot, blowing out a mushroom cloud with a radius of ten millimeters, almost blowing me to death. To prevent this from happening, I made a mobile APK tool. It can prevent computer explosions and also compile files on mobile. This masterpiece was made using my neighbor's computer.
